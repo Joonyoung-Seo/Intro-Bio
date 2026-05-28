@@ -1,33 +1,42 @@
-<h1 align="center">Hi 👋, I'm Joonyoung Seo</h1>
-<h3 align="center">A passionate Computer Science & Data Science (TDM) student at Purdue University 🚂</h3>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
-<br/>
+###
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=joonyoung-seo&theme=radical&column=7" alt="joonyoung-seo" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/joonyoung-seo/joonyoung-seo/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/joonyoung-seo/joonyoung-seo/languages-output/languages.svg" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://cdn.discordapp.com/avatars/893030796099739658/archived/1461253492042891288/6dcca0af41f921c593836242f5ecf894.webp?size=2048"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.instagram.com/seo_joonyoung1011/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-</p>
+</div>
 
-<br/>
+###
 
-<h3 align="left">🛠️ Languages and Tools</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-</p>
+<br clear="both">
 
-<br/>
+<img src="https://raw.githubusercontent.com/joonyoung-seo/joonyoung-seo/snake-output/snake.svg" alt="Snake animation" />
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joonyoung-seo&show_icons=true&locale=en&theme=radical" alt="joonyoung-seo" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=joonyoung-seo&show_icons=true&locale=en&layout=compact&theme=radical" alt="Joonyoung-Seo" />
-</p>
-
-<br/>
-
-<h3 align="left">📱 Connect with me</h3>
-<p align="left">
-  <a href="https://instagram.com/seo_joonyoung1011" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seo_joonyoung1011" height="30" width="40" /></a>
-</p>
+###
