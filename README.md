@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Joonyoung Seo and I'm a student, from South Korea</h2>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/joonyoung-seo/joonyoung-seo/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/joonyoung-seo/joonyoung-seo/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/joonyoung1011/joonyoung1011/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/joonyoung1011/joonyoung1011/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -13,16 +13,10 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
 </div>
 
 ###
@@ -37,6 +31,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/joonyoung-seo/joonyoung-seo/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/joonyoung1011/joonyoung1011/snake-output/snake.svg" alt="Snake animation" />
 
 ###
